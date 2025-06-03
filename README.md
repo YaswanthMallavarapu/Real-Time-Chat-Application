@@ -90,7 +90,7 @@ JWT_SECRET=your_jwt_secret</code></pre>
   <h2>📬 Contact</h2>
   <p>
     <strong>Yaswanth</strong><br/>
-    📧 yaswanth.email@example.com<br/>
+    📧 mallavarapuyaswanth5@gmail.com<br/>
     🔗 <a href="https://www.linkedin.com/in/mallavarapu-yaswanth/">LinkedIn</a><br/>
     🔗 <a href="https://v0-portfolio-qjcokg.vercel.app/">Portfolio</a>
   </p>
